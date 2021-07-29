@@ -1,0 +1,24 @@
+body {
+  background-color: #EAF6F6;
+}
+  hr {
+border-style: none;
+border-top-style: dotted;
+width:10%;
+border-color: grey;
+border-width:5px
+}
+
+h1 {
+  color:#66BFBF;
+  font-size: 55px;
+}
+
+h3{
+  color: 66BFBF
+}
+
+label{
+  color: green
+}
+/**********************************************class selectores************************************************/
