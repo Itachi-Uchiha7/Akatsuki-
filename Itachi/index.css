@@ -35,7 +35,7 @@ body{
     position: absolute;
     bottom: 450px;
     right: 580px;
-    color: white;
+    color: rgb(252, 9, 9);
 
   }
   
@@ -44,8 +44,11 @@ body{
     position: absolute;
     top: 290px;
     left: 730px;
-    color: white;
+    color:White;
     font-size: 30px;
+    font-weight: normal;
+    font-family: sans-serif;
+    line-height: 2;
   }
 
   .Text3{
@@ -63,3 +66,5 @@ body{
     font-family: serif;
   }
 
+
+  
